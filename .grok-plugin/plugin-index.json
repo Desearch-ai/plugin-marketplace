@@ -235,6 +235,24 @@
         ]
       }
     },
+    "desearch": {
+      "sha": "b9be1f0788ce39206185061e42bd480600e47dfd",
+      "version": "0.1.4",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "desearch",
+            "description": "stdio"
+          }
+        ],
+        "skills": [
+          {
+            "name": "desearch",
+            "description": "Choose which Desearch MCP tool to call. Use when the task needs AI search, web search, a page as text or HTML, X posts,…"
+          }
+        ]
+      }
+    },
     "exa": {
       "sha": "879fae0c814765c43f39ea8f56aae1d44e9d9bc8",
       "version": "1.1.0",
