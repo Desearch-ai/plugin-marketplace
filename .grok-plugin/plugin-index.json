@@ -236,8 +236,8 @@
       }
     },
     "desearch": {
-      "sha": "9c5230e1cd74eee55a93e46eee0b7517261dd830",
-      "version": "0.1.5",
+      "sha": "c610ee183c9db5ff3266ea968af67b9d69aff6d9",
+      "version": "0.1.6",
       "components": {
         "mcpServers": [
           {
