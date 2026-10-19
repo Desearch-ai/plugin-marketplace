@@ -410,12 +410,12 @@
     },
     {
       "name": "desearch",
-      "description": "Desearch MCP server and skill for AI agents: AI search, X search and web search, plus page extraction and X data tools (15 tools). Bring your own Desearch API key from console.desearch.ai.",
+      "description": "Desearch MCP server and skills for AI agents: AI search, X search and web search, page extraction, X data tools, and People Search for finding people and creators on X, YouTube, LinkedIn, and TikTok (22 tools). Bring your own Desearch API key from console.desearch.ai.",
       "category": "development",
       "source": {
         "source": "url",
         "url": "https://github.com/Desearch-ai/desearch-plugin.git",
-        "sha": "c610ee183c9db5ff3266ea968af67b9d69aff6d9"
+        "sha": "277affcb9c386fe4f1c928b2fe605df12191c96b"
       },
       "homepage": "https://www.desearch.ai",
       "keywords": ["desearch", "bittensor subnet 22"],
